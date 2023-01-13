@@ -6,11 +6,11 @@ namespace Course.ControlDeVersiones
 {
     public class Example : MonoBehaviour
     {
-        int x;
+        private int x;
 
         private void Start()
         {
-            x = 5;
+            x = 19;
         }
     }
 }
